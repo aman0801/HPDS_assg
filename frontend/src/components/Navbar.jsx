@@ -25,8 +25,8 @@ const Navbar = () => {
         <div className="search">
           <div className="left">{"  "}HPDSX</div>
           <div className="right">
-            <span className="style1">Human</span> <span className="style2">Human</span> <span className="style3">Human</span>
-            <span className="style4">Human</span>
+            <span className="style1">Human</span> <span className="style2">Potential</span> <span className="style3">Development</span>
+            <span className="style4">Science</span>
           </div>
         </div>
         <div className="seller" onClick={redirectToCourse}>Our Courses</div>
